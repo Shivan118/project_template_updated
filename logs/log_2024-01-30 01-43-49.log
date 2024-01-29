@@ -1,0 +1,5 @@
+2024-01-30 01:43:49,253 WARNING werkzeug  * Debugger is active!
+2024-01-30 01:43:49,275 INFO werkzeug  * Debugger PIN: 117-412-016
+2024-01-30 01:43:55,069 INFO root We are testing our logging module
+2024-01-30 01:43:55,071 INFO werkzeug 127.0.0.1 - - [30/Jan/2024 01:43:55] "GET / HTTP/1.1" 200 -
+2024-01-30 01:43:56,248 INFO werkzeug 127.0.0.1 - - [30/Jan/2024 01:43:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

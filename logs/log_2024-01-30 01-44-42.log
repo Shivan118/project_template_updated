@@ -1,0 +1,11 @@
+2024-01-30 01:44:42,868 WARNING werkzeug  * Debugger is active!
+2024-01-30 01:44:42,884 INFO werkzeug  * Debugger PIN: 117-412-016
+2024-01-30 01:44:46,399 INFO root 
+        Error Occurred in execution of :
+        [C:\Users\shiva\Desktop\IPL_Match_Wining_Prediction\exception.py] at 
+        try block line number : [14]
+        and exception block line number : [17"]
+        error message: [We are testing our custome exception file]
+        
+2024-01-30 01:44:46,399 INFO root We are testing our logging module
+2024-01-30 01:44:46,401 INFO werkzeug 127.0.0.1 - - [30/Jan/2024 01:44:46] "GET / HTTP/1.1" 200 -
